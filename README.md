@@ -1,4 +1,4 @@
-HW01
+HW01 deadline: 2014-11-18
 ====
 
 Write a text file, named `[groupname].md` with the following format per member:
