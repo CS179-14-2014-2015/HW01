@@ -15,7 +15,7 @@
    * I basically have no knowledge whatsoever of coding. I only tried bootstrap, Ubuntu, and Python.
    
    
- * Name: Marta Garcia Villarrubia
+* Name: Marta Garcia Villarrubia
    * Nickname: Martita 
    * Github: martitagavil
    * Major: Com Tech
