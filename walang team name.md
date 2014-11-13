@@ -5,7 +5,7 @@
   * E-mail: melizadelapaz@gmail.com
   * Class Expectations:
 
-* Name: Juan Fauxtin Marques
+* Name: Juan Fauxtin Marques 
   * Nickname: Fauxtin
   * Github: round4207
   * Major: 3 BSMIS-MSCS
