@@ -14,7 +14,7 @@
   
 * Name: Charles Edward Lee
   * Nickname: Charles
-  * Github: charles26
+  * Github: charles26lee
   * Major: 4 - BS CoE
-  * E-mail: charles26@gmail.com
+  * E-mail: charles26lee@gmail.com
   * Class Expectations: I hope to develop games awesomely.
