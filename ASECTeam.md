@@ -11,7 +11,7 @@
   * Github: ZachPacis
   * Major: Com Tech
   * E-mail: izpacis@gmail.com
-  * Class Expectations: I expect the class to be fun and challenging cause I basically have no knowledge whatsoever of coding.    * only tried bootstrap, Ubuntu, and Python.
+  * Class Expectations: I expect the class to be fun and challenging cause I basically have no knowledge whatsoever of coding. I only tried bootstrap, Ubuntu, MySQL, and Python.
   
   
 * Name: Marta Garcia Villarrubia
