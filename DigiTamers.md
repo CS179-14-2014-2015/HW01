@@ -11,3 +11,12 @@
   * Major: 3-BS MIS
   * E-mail: rocelle_anime@yahoo.com
   * Class Expectations: To be able to acquire enough knowledge in order to create games.
+
+* Name:  Joshua Reyes
+  * Nickname: Joshua
+  * Github: JoshuaReyes
+  * Major: 4-BS CS
+  * E-mail: jaweh_dude@yahoo.com
+  * Class Expectations: I appreciate and understand what goes on behind the scenes in game developmen
+
+
